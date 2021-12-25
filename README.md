@@ -79,6 +79,10 @@
 
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myster10ushu1k&theme=darcula&show_icons=true" alt="myster10ushu1k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myster10ushu1k&theme=shades-of-purple&show_icons=true" alt="myster10ushu1k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myster10ushu1k&theme=darcula" alt="myster10ushu1k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myster10ushu1k&theme=shades-of-purple" alt="myster10ushu1k" /></p>
+  <p>
+   <h3 align="left">Most Used Languages:</h3>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
+  </p>
